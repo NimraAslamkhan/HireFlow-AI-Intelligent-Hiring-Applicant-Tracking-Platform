@@ -1,0 +1,6 @@
+full_name,email,phone,location,current_company,current_role,experience_years,notes,tags
+Sarah Johnson,sarah@example.com,+1 555 100 1001,New York USA,Google,Senior Engineer,6,Strong Python background,python,backend,senior
+Ali Hassan,ali@example.com,+1 555 100 1002,Remote,Meta,Frontend Dev,4,Great React skills,react,javascript
+Emma Chen,emma@example.com,,San Francisco USA,Stripe,Product Designer,5,Portfolio attached,design,figma,ux
+Carlos Ruiz,carlos@example.com,+1 555 100 1003,Austin USA,,Full Stack Dev,3,Open source contributor,node,react,fullstack
+Priya Sharma,priya@example.com,,Remote,Amazon,Data Engineer,7,Machine learning background,python,ml,data
