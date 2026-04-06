@@ -237,8 +237,7 @@ This system is designed to integrate:
 
 ## 🎥 Demo
 
-👉 Add demo video link here (VERY IMPORTANT)
-
+👉 Add demo video link 
 ---
 
 ## 🏁 Future Improvements
